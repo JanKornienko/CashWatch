@@ -1,0 +1,35 @@
+E:\Financial App\bin\Debug\Financial App.exe.config
+E:\Financial App\bin\Debug\Financial App.exe
+E:\Financial App\bin\Debug\Financial App.pdb
+E:\Financial App\obj\Debug\Financial App.csprojAssemblyReference.cache
+E:\Financial App\obj\Debug\Financial_App.Financial_App.resources
+E:\Financial App\obj\Debug\Financial_App.Properties.Resources.resources
+E:\Financial App\obj\Debug\Financial App.csproj.GenerateResource.cache
+E:\Financial App\obj\Debug\Financial App.exe
+E:\Financial App\obj\Debug\Financial App.pdb
+E:\Financial App\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.exe.config
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.exe
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.pdb
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.csprojAssemblyReference.cache
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.Financial_App.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.Properties.Resources.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.csproj.GenerateResource.cache
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.exe
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.pdb
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.Categories.resources
+E:\Financial App\obj\Debug\Financial_App.Categories.resources
+D:\Financial App\bin\Debug\Financial App.exe.config
+D:\Financial App\bin\Debug\Financial App.exe
+D:\Financial App\bin\Debug\Financial App.pdb
+D:\Financial App\obj\Debug\Financial App.csprojAssemblyReference.cache
+D:\Financial App\obj\Debug\Financial_App.Categories.resources
+D:\Financial App\obj\Debug\Financial_App.Financial_App.resources
+D:\Financial App\obj\Debug\Financial_App.NewItem.resources
+D:\Financial App\obj\Debug\Financial_App.Properties.Resources.resources
+D:\Financial App\obj\Debug\Financial App.csproj.GenerateResource.cache
+D:\Financial App\obj\Debug\Financial App.exe
+D:\Financial App\obj\Debug\Financial App.pdb
+D:\Financial App\obj\Debug\Financial App.csproj.CoreCompileInputs.cache
+D:\Financial App\obj\Debug\Financial_App.List.resources

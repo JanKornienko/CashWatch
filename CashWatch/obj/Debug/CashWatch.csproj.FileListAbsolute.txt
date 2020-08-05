@@ -1,0 +1,56 @@
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.exe.config
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.exe
+C:\Users\korja\Documents\Financial App\bin\Debug\Financial App.pdb
+C:\Users\korja\Documents\Financial App\obj\Debug\CashWatch.csprojAssemblyReference.cache
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.Categories.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.CashWatch.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial_App.Properties.Resources.resources
+C:\Users\korja\Documents\Financial App\obj\Debug\CashWatch.csproj.GenerateResource.cache
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.exe
+C:\Users\korja\Documents\Financial App\obj\Debug\Financial App.pdb
+C:\Users\korja\Documents\CashWatch\obj\Debug\CashWatch.csprojAssemblyReference.cache
+C:\Users\korja\Documents\CashWatch\obj\Debug\Financial_App.Categories.resources
+C:\Users\korja\Documents\CashWatch\obj\Debug\Financial_App.CashWatch.resources
+C:\Users\korja\Documents\CashWatch\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\CashWatch\obj\Debug\CashWatch.csproj.GenerateResource.cache
+C:\Users\korja\Documents\CashWatch\bin\Debug\CashWatch.exe.config
+C:\Users\korja\Documents\CashWatch\bin\Debug\CashWatch.exe
+C:\Users\korja\Documents\CashWatch\bin\Debug\CashWatch.pdb
+C:\Users\korja\Documents\CashWatch\obj\Debug\CashWatch.Properties.Resources.resources
+C:\Users\korja\Documents\CashWatch\obj\Debug\CashWatch.exe
+C:\Users\korja\Documents\CashWatch\obj\Debug\CashWatch.pdb
+E:\PVA\CashWatch\bin\Debug\CashWatch.exe.config
+E:\PVA\CashWatch\bin\Debug\CashWatch.exe
+E:\PVA\CashWatch\bin\Debug\CashWatch.pdb
+E:\PVA\CashWatch\obj\Debug\CashWatch.csprojAssemblyReference.cache
+E:\PVA\CashWatch\obj\Debug\Financial_App.Categories.resources
+E:\PVA\CashWatch\obj\Debug\Financial_App.CashWatch.resources
+E:\PVA\CashWatch\obj\Debug\Financial_App.NewItem.resources
+E:\PVA\CashWatch\obj\Debug\CashWatch.Properties.Resources.resources
+E:\PVA\CashWatch\obj\Debug\CashWatch.csproj.GenerateResource.cache
+E:\PVA\CashWatch\obj\Debug\CashWatch.csproj.CoreCompileInputs.cache
+E:\PVA\CashWatch\obj\Debug\CashWatch.exe
+E:\PVA\CashWatch\obj\Debug\CashWatch.pdb
+C:\Users\korja\Documents\PVA\CashWatch\bin\Debug\CashWatch.exe.config
+C:\Users\korja\Documents\PVA\CashWatch\bin\Debug\CashWatch.exe
+C:\Users\korja\Documents\PVA\CashWatch\bin\Debug\CashWatch.pdb
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\CashWatch.csprojAssemblyReference.cache
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\Financial_App.Categories.resources
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\Financial_App.CashWatch.resources
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\CashWatch.Properties.Resources.resources
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\CashWatch.csproj.GenerateResource.cache
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\CashWatch.exe
+C:\Users\korja\Documents\PVA\CashWatch\obj\Debug\CashWatch.pdb
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\bin\Debug\CashWatch.exe.config
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\bin\Debug\CashWatch.exe
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\bin\Debug\CashWatch.pdb
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\CashWatch.csprojAssemblyReference.cache
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\Financial_App.Categories.resources
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\Financial_App.CashWatch.resources
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\Financial_App.NewItem.resources
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\CashWatch.Properties.Resources.resources
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\CashWatch.csproj.GenerateResource.cache
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\CashWatch.exe
+C:\Users\korja\Documents\Kornienko-PVA-projekt\CashWatch\obj\Debug\CashWatch.pdb
